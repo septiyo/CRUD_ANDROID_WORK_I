@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_pendaftaran.xml",
+        "source": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\src\\main\\res\\layout\\list_pendaftaran.xml"
+    },
+    {
+        "merged": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tambah_bukutamu.xml",
+        "source": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\src\\main\\res\\layout\\tambah_bukutamu.xml"
+    },
+    {
+        "merged": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\semua_bukutamu.xml",
+        "source": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\src\\main\\res\\layout\\semua_bukutamu.xml"
+    },
+    {
+        "merged": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_bukutamu.xml",
+        "source": "D:\\BELAJAR ANDROID\\BukuTamu\\app\\src\\main\\res\\layout\\edit_bukutamu.xml"
+    }
+]

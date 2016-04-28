@@ -1,0 +1,7 @@
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\SemuaBukuTamu$LoadSemuaBukuTamu$1$override.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\SemuaBukuTamu$1$override.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\EditBukuTamu$GetPendaftaranDetails$1$override.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\EditBukuTamu$override.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\TambahBukuTamu$override.class
+CHANGED,D:\BELAJAR ANDROID\BukuTamu\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\id\creatorb\bukutamu\R$id$override.class
